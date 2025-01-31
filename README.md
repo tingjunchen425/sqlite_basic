@@ -19,10 +19,10 @@ python 3.11
 >- 記得將`my_database`換成自己的資料庫名稱
 
 ### 檔案介紹
-#### [版本紀錄]()
-#### [資料庫相關功能]()
-#### [sql指令相關功能]()
-#### [相依套件目錄]()
+#### [版本紀錄](https://github.com/tingjunchen425/sqlite_basic/blob/main/changeLog.md)
+#### [資料庫相關功能](https://github.com/tingjunchen425/sqlite_basic/blob/main/db.py)
+#### [sql指令相關功能](https://github.com/tingjunchen425/sqlite_basic/blob/main/sql.py)
+#### [相依套件目錄](https://github.com/tingjunchen425/sqlite_basic/blob/main/requirements.txt)
 
 ### 功能說明
 #### `db.py`
