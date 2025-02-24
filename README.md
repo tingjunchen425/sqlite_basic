@@ -14,7 +14,7 @@ python 3.11
 - 安裝相依套件
 `pip install -r requirements.txt`
 - 匯出資料庫(.db > .sql)
-`sqlite3 my_database.md '.dump' > my_database.sql`
+`sqlite3 my_database.db '.dump' > my_database.sql`
 >[!Tips]補充說明
 >- 記得將`my_database`換成自己的資料庫名稱
 
